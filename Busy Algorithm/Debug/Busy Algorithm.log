@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Steph\source\repos\Busy Algorithm\main.c(70,51): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Steph\source\repos\Busy Algorithm\main.c(198,41): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+  Busy Algorithm.vcxproj -> C:\Users\Steph\source\repos\Busy Algorithm\Debug\Busy Algorithm.exe
